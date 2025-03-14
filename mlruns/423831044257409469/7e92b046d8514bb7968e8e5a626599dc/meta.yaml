@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/7e92b046d8514bb7968e8e5a626599dc/artifacts
+end_time: 1741862441143
+entry_point_name: ''
+experiment_id: '423831044257409469'
+lifecycle_stage: active
+run_id: 7e92b046d8514bb7968e8e5a626599dc
+run_name: carefree-mule-656
+run_uuid: 7e92b046d8514bb7968e8e5a626599dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741862431553
+status: 3
+tags: []
+user_id: tanuj

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/43a01792046540b287c97992a9019462/artifacts
+deleted_time: 1741856663947
+end_time: 1741852060764
+entry_point_name: ''
+experiment_id: '423831044257409469'
+lifecycle_stage: deleted
+run_id: 43a01792046540b287c97992a9019462
+run_name: hilarious-foal-134
+run_uuid: 43a01792046540b287c97992a9019462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741852056229
+status: 3
+tags: []
+user_id: tanuj

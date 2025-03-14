@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/de41dac1fe9740bbaeb08fec99e9c573/artifacts
+deleted_time: 1741856663956
+end_time: 1741853976476
+entry_point_name: ''
+experiment_id: '423831044257409469'
+lifecycle_stage: deleted
+run_id: de41dac1fe9740bbaeb08fec99e9c573
+run_name: skillful-vole-212
+run_uuid: de41dac1fe9740bbaeb08fec99e9c573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741853969199
+status: 3
+tags: []
+user_id: tanuj

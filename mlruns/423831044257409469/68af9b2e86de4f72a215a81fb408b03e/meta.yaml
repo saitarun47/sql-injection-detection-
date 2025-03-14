@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/68af9b2e86de4f72a215a81fb408b03e/artifacts
+end_time: 1741863468531
+entry_point_name: ''
+experiment_id: '423831044257409469'
+lifecycle_stage: active
+run_id: 68af9b2e86de4f72a215a81fb408b03e
+run_name: wistful-bass-317
+run_uuid: 68af9b2e86de4f72a215a81fb408b03e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741863454566
+status: 3
+tags: []
+user_id: tanuj

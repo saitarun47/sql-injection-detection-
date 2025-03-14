@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741856787044
+current_stage: None
+description: ''
+last_updated_timestamp: 1741856787044
+name: naive bayes with count vectorizer
+run_id: 4289cf47a7504dea80bd71f9945bdd41
+run_link: ''
+source: models:/naive bayes with count vectorizer/1
+status: READY
+status_message: null
+storage_location: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/4289cf47a7504dea80bd71f9945bdd41/artifacts/model
+user_id: null
+version: 2

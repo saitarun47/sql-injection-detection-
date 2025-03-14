@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/20e62ea1296041d6935139a826d156f7/artifacts
+end_time: 1741867366377
+entry_point_name: ''
+experiment_id: '423831044257409469'
+lifecycle_stage: active
+run_id: 20e62ea1296041d6935139a826d156f7
+run_name: popular-horse-940
+run_uuid: 20e62ea1296041d6935139a826d156f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741867357049
+status: 3
+tags: []
+user_id: tanuj

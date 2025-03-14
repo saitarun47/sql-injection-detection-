@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/0ff3c44e7e0d437d9173d74f9a519f8a/artifacts
+end_time: 1741865131722
+entry_point_name: ''
+experiment_id: '423831044257409469'
+lifecycle_stage: active
+run_id: 0ff3c44e7e0d437d9173d74f9a519f8a
+run_name: intrigued-squid-154
+run_uuid: 0ff3c44e7e0d437d9173d74f9a519f8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741865121080
+status: 3
+tags: []
+user_id: tanuj

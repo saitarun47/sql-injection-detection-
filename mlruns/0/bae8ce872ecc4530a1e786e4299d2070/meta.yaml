@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/bae8ce872ecc4530a1e786e4299d2070/artifacts
+deleted_time: 1741859149623
+end_time: 1741858444292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bae8ce872ecc4530a1e786e4299d2070
+run_name: bittersweet-mink-139
+run_uuid: bae8ce872ecc4530a1e786e4299d2070
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741858442092
+status: 4
+tags: []
+user_id: tanuj

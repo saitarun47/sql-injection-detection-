@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741863461420
+current_stage: None
+description: ''
+last_updated_timestamp: 1741863461420
+name: lstm
+run_id: d79fe4c8c2e049cf8ffdadbc5a621026
+run_link: ''
+source: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/d79fe4c8c2e049cf8ffdadbc5a621026/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/d79fe4c8c2e049cf8ffdadbc5a621026/artifacts/model
+user_id: null
+version: 2

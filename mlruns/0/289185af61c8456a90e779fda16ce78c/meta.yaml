@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/289185af61c8456a90e779fda16ce78c/artifacts
+end_time: 1741862775520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 289185af61c8456a90e779fda16ce78c
+run_name: enthused-fawn-32
+run_uuid: 289185af61c8456a90e779fda16ce78c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741862772313
+status: 4
+tags: []
+user_id: tanuj

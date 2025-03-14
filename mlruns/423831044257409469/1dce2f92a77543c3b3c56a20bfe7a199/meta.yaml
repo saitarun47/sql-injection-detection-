@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/1dce2f92a77543c3b3c56a20bfe7a199/artifacts
+deleted_time: 1741856663948
+end_time: 1741853152201
+entry_point_name: ''
+experiment_id: '423831044257409469'
+lifecycle_stage: deleted
+run_id: 1dce2f92a77543c3b3c56a20bfe7a199
+run_name: defiant-swan-189
+run_uuid: 1dce2f92a77543c3b3c56a20bfe7a199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741853143601
+status: 3
+tags: []
+user_id: tanuj

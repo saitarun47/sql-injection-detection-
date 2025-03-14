@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/34cff013eb5c445abe75161f45e9ef6b/artifacts
+end_time: 1741860794515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34cff013eb5c445abe75161f45e9ef6b
+run_name: hilarious-flea-285
+run_uuid: 34cff013eb5c445abe75161f45e9ef6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741860764290
+status: 3
+tags: []
+user_id: tanuj

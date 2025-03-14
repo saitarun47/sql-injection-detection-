@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f26d535be5e94f5b9341834d95f3a197/artifacts
+deleted_time: 1741859149623
+end_time: 1741858571414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f26d535be5e94f5b9341834d95f3a197
+run_name: agreeable-fawn-881
+run_uuid: f26d535be5e94f5b9341834d95f3a197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741858568091
+status: 4
+tags: []
+user_id: tanuj

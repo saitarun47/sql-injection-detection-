@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/03544627f5d64bf8b105261b775a5fac/artifacts
+end_time: 1741856302340
+entry_point_name: ''
+experiment_id: '423831044257409469'
+lifecycle_stage: active
+run_id: 03544627f5d64bf8b105261b775a5fac
+run_name: placid-hare-966
+run_uuid: 03544627f5d64bf8b105261b775a5fac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741856297599
+status: 3
+tags: []
+user_id: tanuj

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9afce74820ac40c79c56f2885f8167d4/artifacts
+end_time: 1741864974915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9afce74820ac40c79c56f2885f8167d4
+run_name: colorful-roo-552
+run_uuid: 9afce74820ac40c79c56f2885f8167d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741864942898
+status: 3
+tags: []
+user_id: tanuj

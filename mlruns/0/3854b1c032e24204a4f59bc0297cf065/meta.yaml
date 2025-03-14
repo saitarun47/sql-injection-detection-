@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3854b1c032e24204a4f59bc0297cf065/artifacts
+end_time: 1741863659109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3854b1c032e24204a4f59bc0297cf065
+run_name: amazing-shark-488
+run_uuid: 3854b1c032e24204a4f59bc0297cf065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741863598231
+status: 3
+tags: []
+user_id: tanuj

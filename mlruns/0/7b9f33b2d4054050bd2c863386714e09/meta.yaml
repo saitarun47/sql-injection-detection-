@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7b9f33b2d4054050bd2c863386714e09/artifacts
+end_time: 1741860552555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b9f33b2d4054050bd2c863386714e09
+run_name: amusing-hare-291
+run_uuid: 7b9f33b2d4054050bd2c863386714e09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741860527513
+status: 3
+tags: []
+user_id: tanuj

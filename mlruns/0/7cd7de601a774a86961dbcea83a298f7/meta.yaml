@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7cd7de601a774a86961dbcea83a298f7/artifacts
+end_time: 1741861786981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cd7de601a774a86961dbcea83a298f7
+run_name: bright-auk-266
+run_uuid: 7cd7de601a774a86961dbcea83a298f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741861762473
+status: 3
+tags: []
+user_id: tanuj

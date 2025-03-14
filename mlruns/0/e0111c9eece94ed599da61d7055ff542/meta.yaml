@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e0111c9eece94ed599da61d7055ff542/artifacts
+end_time: 1741864756510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0111c9eece94ed599da61d7055ff542
+run_name: redolent-doe-986
+run_uuid: e0111c9eece94ed599da61d7055ff542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741864670162
+status: 3
+tags: []
+user_id: tanuj

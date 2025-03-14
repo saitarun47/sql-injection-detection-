@@ -1,0 +1,7 @@
+COLUMNS:
+  Sentence: object
+  Label: int64
+  
+
+TARGET_COLUMN:
+  name: Label

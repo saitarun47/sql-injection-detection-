@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/936c9d15a0594a0f9500aef2b85c7219/artifacts
+deleted_time: 1741856663959
+end_time: 1741854317915
+entry_point_name: ''
+experiment_id: '423831044257409469'
+lifecycle_stage: deleted
+run_id: 936c9d15a0594a0f9500aef2b85c7219
+run_name: clean-fish-924
+run_uuid: 936c9d15a0594a0f9500aef2b85c7219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741854309446
+status: 3
+tags: []
+user_id: tanuj

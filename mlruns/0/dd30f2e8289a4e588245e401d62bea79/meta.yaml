@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/dd30f2e8289a4e588245e401d62bea79/artifacts
+deleted_time: 1741856619376
+end_time: 1741855924099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dd30f2e8289a4e588245e401d62bea79
+run_name: Data Transformation
+run_uuid: dd30f2e8289a4e588245e401d62bea79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741855923913
+status: 4
+tags: []
+user_id: tanuj

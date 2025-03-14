@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/439c07a22cf4498b9622e8d875228758/artifacts
+deleted_time: 1741856619378
+end_time: 1741855939758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 439c07a22cf4498b9622e8d875228758
+run_name: Model Training
+run_uuid: 439c07a22cf4498b9622e8d875228758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741855931923
+status: 4
+tags: []
+user_id: tanuj

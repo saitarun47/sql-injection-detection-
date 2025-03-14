@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/a5ae8b0980ec4524b17b354655768d03/artifacts
+deleted_time: 1741862513172
+end_time: 1741862225350
+entry_point_name: ''
+experiment_id: '423831044257409469'
+lifecycle_stage: deleted
+run_id: a5ae8b0980ec4524b17b354655768d03
+run_name: nimble-doe-616
+run_uuid: a5ae8b0980ec4524b17b354655768d03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741862216277
+status: 3
+tags: []
+user_id: tanuj

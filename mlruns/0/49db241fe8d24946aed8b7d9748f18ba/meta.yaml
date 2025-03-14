@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/49db241fe8d24946aed8b7d9748f18ba/artifacts
+end_time: 1741858791137
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49db241fe8d24946aed8b7d9748f18ba
+run_name: blushing-cat-661
+run_uuid: 49db241fe8d24946aed8b7d9748f18ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741858778564
+status: 3
+tags: []
+user_id: tanuj

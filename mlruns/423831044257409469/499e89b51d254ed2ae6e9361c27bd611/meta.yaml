@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/499e89b51d254ed2ae6e9361c27bd611/artifacts
+deleted_time: 1741856663947
+end_time: 1741852640568
+entry_point_name: ''
+experiment_id: '423831044257409469'
+lifecycle_stage: deleted
+run_id: 499e89b51d254ed2ae6e9361c27bd611
+run_name: sneaky-shrimp-94
+run_uuid: 499e89b51d254ed2ae6e9361c27bd611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741852632346
+status: 3
+tags: []
+user_id: tanuj

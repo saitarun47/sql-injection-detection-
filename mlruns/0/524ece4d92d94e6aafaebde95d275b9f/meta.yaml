@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/524ece4d92d94e6aafaebde95d275b9f/artifacts
+end_time: 1741865373411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 524ece4d92d94e6aafaebde95d275b9f
+run_name: exultant-croc-844
+run_uuid: 524ece4d92d94e6aafaebde95d275b9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741865370882
+status: 4
+tags: []
+user_id: tanuj

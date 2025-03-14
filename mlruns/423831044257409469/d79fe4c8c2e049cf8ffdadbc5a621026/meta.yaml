@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/d79fe4c8c2e049cf8ffdadbc5a621026/artifacts
+end_time: 1741862997337
+entry_point_name: ''
+experiment_id: '423831044257409469'
+lifecycle_stage: active
+run_id: d79fe4c8c2e049cf8ffdadbc5a621026
+run_name: placid-stork-732
+run_uuid: d79fe4c8c2e049cf8ffdadbc5a621026
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741862988130
+status: 3
+tags: []
+user_id: tanuj

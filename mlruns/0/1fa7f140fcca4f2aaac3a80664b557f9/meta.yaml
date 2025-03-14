@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1fa7f140fcca4f2aaac3a80664b557f9/artifacts
+end_time: 1741861333483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fa7f140fcca4f2aaac3a80664b557f9
+run_name: sassy-roo-216
+run_uuid: 1fa7f140fcca4f2aaac3a80664b557f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741861309006
+status: 3
+tags: []
+user_id: tanuj

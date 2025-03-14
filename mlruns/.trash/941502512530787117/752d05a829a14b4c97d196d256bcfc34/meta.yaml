@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/941502512530787117/752d05a829a14b4c97d196d256bcfc34/artifacts
+deleted_time: 1741852121734
+end_time: 1741852053910
+entry_point_name: ''
+experiment_id: '941502512530787117'
+lifecycle_stage: deleted
+run_id: 752d05a829a14b4c97d196d256bcfc34
+run_name: bustling-eel-361
+run_uuid: 752d05a829a14b4c97d196d256bcfc34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741852041305
+status: 3
+tags: []
+user_id: tanuj
