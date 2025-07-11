@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/d05d4da2715c418a9a1fd50638542df0/artifacts
+end_time: 1752127970704
+entry_point_name: ''
+experiment_id: '423831044257409469'
+lifecycle_stage: active
+run_id: d05d4da2715c418a9a1fd50638542df0
+run_name: thoughtful-hog-727
+run_uuid: d05d4da2715c418a9a1fd50638542df0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752127963960
+status: 3
+tags: []
+user_id: tanuj

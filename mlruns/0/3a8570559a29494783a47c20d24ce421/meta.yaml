@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3a8570559a29494783a47c20d24ce421/artifacts
+end_time: 1752128574248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a8570559a29494783a47c20d24ce421
+run_name: gaudy-stag-70
+run_uuid: 3a8570559a29494783a47c20d24ce421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752128546262
+status: 3
+tags: []
+user_id: tanuj

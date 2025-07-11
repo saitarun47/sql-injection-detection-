@@ -44,7 +44,7 @@ class DataIngestion:
         local_file_path = self.config.local_data_file
         unzip_dir = self.config.unzip_dir
 
-        print(f"📂 Processing file: {local_file_path}")
+        print(f"Processing file: {local_file_path}")
 
         if zipfile.is_zipfile(local_file_path):
             print(" Extracting ZIP file...")

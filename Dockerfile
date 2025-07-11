@@ -1,19 +1,35 @@
-FROM python:3.8-slim-buster
+FROM python:3.9-slim
 
-# Update & install awscli
-RUN apt update -y && apt upgrade -y && apt install awscli -y && rm -rf /var/lib/apt/lists/*
+ENV PYTHONUNBUFFERED=1
+ENV PYTHONDONTWRITEBYTECODE=1
 
-# Set working directory
+
+RUN apt-get update && apt-get install -y \
+    gcc \
+    g++ \
+    && rm -rf /var/lib/apt/lists/*
+
+
 WORKDIR /app
 
-# Copy project files
-COPY . /app
+COPY requirements.txt .
 
-# Install dependencies
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
 
-# Expose Streamlit default port
-EXPOSE 8501
+RUN python -c "import nltk; nltk.download('punkt')"
+COPY . .
 
-# Run Streamlit app
-CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+
+RUN useradd --create-home --shell /bin/bash app && \
+    chown -R app:app /app
+USER app
+
+
+EXPOSE 7860
+
+
+HEALTHCHECK --interval=30s --timeout=30s --start-period=5s --retries=3 \
+    CMD python -c "import requests; requests.get('http://localhost:7860')" || exit 1
+
+CMD ["python", "app.py"]

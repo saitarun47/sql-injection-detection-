@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/42e6d01a0c4547e1b33828ad04fd4062/artifacts
+end_time: 1752128842979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42e6d01a0c4547e1b33828ad04fd4062
+run_name: dashing-shrimp-698
+run_uuid: 42e6d01a0c4547e1b33828ad04fd4062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752128821217
+status: 3
+tags: []
+user_id: tanuj

@@ -27,13 +27,14 @@ class ModelTrainerConfig:
     root_dir: Path
     train_data_path: Path
     test_data_path: Path
-    lstm_units: int
+    embed_dim: int
+    hidden_dim: int
     dropout_rate: float
     epochs: int
     batch_size: int
+    learning_rate: float
     target_column: str
     model_name: str
-    target_column: str
 
 @dataclass(frozen=True)
 class ModelEvaluationConfig:

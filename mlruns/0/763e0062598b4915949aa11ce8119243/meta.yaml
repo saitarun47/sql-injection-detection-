@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/763e0062598b4915949aa11ce8119243/artifacts
+end_time: 1752128516914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 763e0062598b4915949aa11ce8119243
+run_name: loud-gnu-305
+run_uuid: 763e0062598b4915949aa11ce8119243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752128489513
+status: 3
+tags: []
+user_id: tanuj

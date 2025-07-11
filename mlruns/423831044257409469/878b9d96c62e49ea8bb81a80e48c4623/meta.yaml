@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/878b9d96c62e49ea8bb81a80e48c4623/artifacts
+end_time: 1752127394800
+entry_point_name: ''
+experiment_id: '423831044257409469'
+lifecycle_stage: active
+run_id: 878b9d96c62e49ea8bb81a80e48c4623
+run_name: resilient-shrike-67
+run_uuid: 878b9d96c62e49ea8bb81a80e48c4623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752127386762
+status: 3
+tags: []
+user_id: tanuj

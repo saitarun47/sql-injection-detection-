@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1752127567103
+current_stage: None
+description: ''
+last_updated_timestamp: 1752127567103
+name: lstm (pytorch)
+run_id: d18c7c4fbd3f443c997944c7a78030f3
+run_link: ''
+source: mlflow-artifacts:/0/d18c7c4fbd3f443c997944c7a78030f3/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/d18c7c4fbd3f443c997944c7a78030f3/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/5fb183f5d1aa452392e3e7966eaa483f/artifacts
+end_time: 1752128849993
+entry_point_name: ''
+experiment_id: '423831044257409469'
+lifecycle_stage: active
+run_id: 5fb183f5d1aa452392e3e7966eaa483f
+run_name: aged-fish-27
+run_uuid: 5fb183f5d1aa452392e3e7966eaa483f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752128843263
+status: 3
+tags: []
+user_id: tanuj

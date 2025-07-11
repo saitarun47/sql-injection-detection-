@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/7529f66a583144e1b11f38e439b0443b/artifacts
+end_time: 1752128524974
+entry_point_name: ''
+experiment_id: '423831044257409469'
+lifecycle_stage: active
+run_id: 7529f66a583144e1b11f38e439b0443b
+run_name: worried-flea-41
+run_uuid: 7529f66a583144e1b11f38e439b0443b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752128517211
+status: 3
+tags: []
+user_id: tanuj

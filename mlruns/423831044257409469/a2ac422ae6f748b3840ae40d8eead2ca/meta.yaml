@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tanuj/Desktop/Projects/endtoend%20sql/mlruns/423831044257409469/a2ac422ae6f748b3840ae40d8eead2ca/artifacts
+end_time: 1752128583604
+entry_point_name: ''
+experiment_id: '423831044257409469'
+lifecycle_stage: active
+run_id: a2ac422ae6f748b3840ae40d8eead2ca
+run_name: delightful-kite-441
+run_uuid: a2ac422ae6f748b3840ae40d8eead2ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752128574645
+status: 3
+tags: []
+user_id: tanuj

@@ -72,10 +72,12 @@ class ConfigurationManager:
             train_data_path = config.train_data_path,
             test_data_path = config.test_data_path,
             model_name = config.model_name,
-            lstm_units=params["lstm_units"],
+            embed_dim=params["embed_dim"],
+            hidden_dim=params["hidden_dim"],
             dropout_rate=params["dropout_rate"],
             epochs=params["epochs"],
             batch_size=params["batch_size"],
+            learning_rate=params["learning_rate"],
             target_column = schema.name
             
         )
