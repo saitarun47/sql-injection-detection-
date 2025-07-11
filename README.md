@@ -2,6 +2,10 @@
 
 A robust machine learning based SQL injection detection system built with PyTorch, using a LSTM neural network architecture and a Gradio web interface.
 
+<img width="1558" height="612" alt="Screenshot 2025-07-11 105125" src="https://github.com/user-attachments/assets/05456b7c-e747-4a0c-acc8-2ce6ae88eb21" />
+
+<img width="1678" height="620" alt="Screenshot 2025-07-11 104548" src="https://github.com/user-attachments/assets/69701313-6eb9-4a3d-96bb-f5928064c7aa" />
+
 ## Project Overview
 
 This project implements an SQL injection detection system that leverages deep learning techniques to identify malicious SQL queries in real time. The system uses a LSTM neural network trained on a comprehensive dataset of SQL injection patterns and benign queries.
